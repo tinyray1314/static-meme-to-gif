@@ -1,0 +1,4 @@
+interface:
+  display_name: "静态表情包变动态"
+  short_description: "延展一致的连续动作帧，合成两秒循环 GIF 并输出轻量压缩版"
+  default_prompt: "使用 $static-meme-to-gif 把这张静态表情包变成动态表情，默认 2 秒循环并交付轻量 GIF。"

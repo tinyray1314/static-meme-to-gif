@@ -1,0 +1,63 @@
+{
+  "input_frames": 12,
+  "master": {
+    "size": [
+      362,
+      362
+    ],
+    "frames": 12,
+    "durations_ms": [
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      160,
+      160,
+      160,
+      160
+    ],
+    "total_ms": 2000,
+    "loop": 0,
+    "bytes": 174202
+  },
+  "small": {
+    "size": [
+      240,
+      240
+    ],
+    "frames": 12,
+    "durations_ms": [
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      170,
+      160,
+      160,
+      160,
+      160
+    ],
+    "total_ms": 2000,
+    "loop": 0,
+    "bytes": 94260
+  },
+  "palette_attempts": [
+    {
+      "colors": 256,
+      "bytes": 94260
+    }
+  ],
+  "budget_bytes": 512000,
+  "budget_met": true,
+  "background": "#FFFFFF",
+  "visual_check": "Generated 12-frame sheet and decoded 240px first frame inspected. Minor redraw variation remains. Continuous playback not independently verified.",
+  "platform_import": "NOT RUN",
+  "rebuild_check": "PASS: sheet extraction matches saved frames; re-encoding preserves dimensions, frame count, durations and loop."
+}

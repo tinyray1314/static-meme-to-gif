@@ -1,0 +1,19 @@
+{
+  "title": "不服来战",
+  "source": "User-supplied static image; original creator and upstream license not established.",
+  "generation": "Built-in image generation tool; one 4-column by 3-row sprite sheet. Model version not independently verified.",
+  "sheet_size": [
+    1448,
+    1086
+  ],
+  "cell_size": [
+    362,
+    362
+  ],
+  "order": "row-major",
+  "frames": 12,
+  "target_total_ms": 2000,
+  "date": "2026-09-10",
+  "review": "Generated contact sheet and decoded 240px first frame inspected; continuous playback and WeChat import not independently verified. Minor redraw variation remains.",
+  "asset_license": "See ../ASSET_NOTICE.md"
+}
